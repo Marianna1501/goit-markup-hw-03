@@ -343,6 +343,9 @@ p {
   margin-right: 30px;
 }
 /* team */
+.team-title {
+  margin-bottom: 1.39em;
+}
 .team {
   background-color: var(--background-col-2);
   padding-top: 5.875em;
